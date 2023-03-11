@@ -1415,15 +1415,22 @@ FW_VERSIONS = {
     (Ecu.fwdRadar, 0x18dab0f1, None): [
       b'36161-TV9-A140\x00\x00',
       b'36161-TX6-A030\x00\x00',
+      
+      b'\x0eVBV9L330249015\x00\x00',
     ],
     (Ecu.srs, 0x18da53f1, None): [
       b'77959-TX6-A230\x00\x00',
       b'77959-TX6-C210\x00\x00',
+      
+      b'\x0bC1LZ01DD12D\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00',
     ],
     (Ecu.combinationMeter, 0x18da60f1, None): [
       b'78109-T3R-A120\x00\x00',
       b'78109-T3R-A410\x00\x00',
       b'78109-TV9-A510\x00\x00',
+      
+      b'\x18H1003454\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00',
+      b'78109-TV9-A110\x00\x00',
     ],
   },
   CAR.HONDA_E:{
